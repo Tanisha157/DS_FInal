@@ -15,4 +15,7 @@ I recommend creating an environment to run this code. Here are the instructions 
 - It is important to note that the "env" in both Windows and Mac/Linux commands is the name of the environment. <br>
 
 **Step 4:** Install the requirements. Type "pip install -r requirements.txt" in the terminal. <br>
-**Step 5:** Once done running the notebook, you can deactivate the code by typing "deactivate" in the terminal. <br>
+**Step 5:** Once done running the notebook, you can deactivate the code by typing "deactivate" in the terminal. <be>
+
+The csv used was obtained from kaggle at: [https://www.kaggle.com/datasets/amitvkulkarni/hair-health?resource=download]
+
